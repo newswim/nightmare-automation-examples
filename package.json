@@ -1,0 +1,33 @@
+{
+  "name": "texas-unclaimed-property-search-scraper",
+  "version": "1.0.0",
+  "description": "texas-unclaimed-property-search-scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/texas-unclaimed-property-search-scraper.git"
+  },
+  "keywords": [
+    "web",
+    "scrape",
+    "nightmare",
+    "texas",
+    "local",
+    "gov",
+    "open",
+    "data"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/texas-unclaimed-property-search-scraper/issues"
+  },
+  "homepage": "https://github.com/newswim/texas-unclaimed-property-search-scraper#readme",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "nightmarejs": "^0.0.1"
+  }
+}

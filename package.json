@@ -4,11 +4,12 @@
   "description": "Some Nightmare examples. Creepy...",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node example.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newswim/texas-unclaimed-property-search-scraper.git"
+    "url": "git+https://github.com/newswim/nightmare-automation-examples.git"
   },
   "keywords": [
     "web",
@@ -23,9 +24,9 @@
   "author": "Dan Minshew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/newswim/texas-unclaimed-property-search-scraper/issues"
+    "url": "https://github.com/newswim/nightmare-automation-examplesissues"
   },
-  "homepage": "https://github.com/newswim/texas-unclaimed-property-search-scraper#readme",
+  "homepage": "https://github.com/newswim/nightmare-automation-examples#readme",
   "dependencies": {
     "jquery": "^3.1.1",
     "nightmare": "^2.10.0"

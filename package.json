@@ -1,7 +1,7 @@
 {
-  "name": "texas-unclaimed-property-search-scraper",
+  "name": "nightmare-examples",
   "version": "1.0.0",
-  "description": "texas-unclaimed-property-search-scraper",
+  "description": "Some Nightmare examples. Creepy...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -28,6 +28,6 @@
   "homepage": "https://github.com/newswim/texas-unclaimed-property-search-scraper#readme",
   "dependencies": {
     "jquery": "^3.1.1",
-    "nightmarejs": "^0.0.1"
+    "nightmare": "^2.10.0"
   }
 }
